@@ -1,7 +1,8 @@
 # Portfolio 1.0---Rocketseat
 
--> Linguagens utilizadas: HTML, JavaScript e CSS.
+-> Linguagens utilizadas: JavaScript.
 
+-> Formatação de imagens e texto: HTML e CSS.
 
 -> Objetivo: 
 
